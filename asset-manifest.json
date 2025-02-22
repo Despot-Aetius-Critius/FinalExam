@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FinalExam/static/css/main.c5a91812.css",
+    "main.js": "/FinalExam/static/js/main.248cb62b.js",
+    "static/js/488.34eaf746.chunk.js": "/FinalExam/static/js/488.34eaf746.chunk.js",
+    "index.html": "/FinalExam/index.html",
+    "main.c5a91812.css.map": "/FinalExam/static/css/main.c5a91812.css.map",
+    "main.248cb62b.js.map": "/FinalExam/static/js/main.248cb62b.js.map",
+    "488.34eaf746.chunk.js.map": "/FinalExam/static/js/488.34eaf746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a91812.css",
+    "static/js/main.248cb62b.js"
+  ]
+}
